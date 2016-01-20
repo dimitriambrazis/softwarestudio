@@ -2,12 +2,15 @@ Dimitri Ambrazis
 Week 1 | 1/13/2016
 
 In class, I wrote the foo bar baz function.
-In addition, I greated this github repository as my lab notebook.  I'm still playing around with it and learning about it,
+In addition, I created this github repository as my lab notebook.  I'm still playing around with it and learning about it,
 but it is very intuitive and easy to use.
 
 This week I completed the skills survey on Blackboard.  This assignment reminded me I wanted to learn move about maven
 and what it does on a deeper lever.
 
-I updated my foobarbaz code to handle a new divisiblity by 7 rule, and to run for 110 numbers.  I added logic to the first 
-if clause so that when a number like 105 came, which is divisible by 3,5, and 7, it would not print foo bar but rather 
+I updated my foobarbaz code to handle a new divisibility-by-7 rule, and to run for 110 numbers.  I added logic to the first 
+if clause so that when a number like 105 appears, which is divisible by 3,5, and 7, it would not print foo bar but rather 
 baz (per the rules).
+
+Q: Would your FooBarBaz code be different if we had done it test-first?
+    I believe if I hadn't had a handle on the problem, yes.  It is easy to oversee, for example, that a number like 105          exists in the number set.  Therefore, someone could overlook that possibility when developing.  So testing first would       result in a different approach, perhaps utilizing TDD or just coding a little and testing a little.
