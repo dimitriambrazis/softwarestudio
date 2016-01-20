@@ -8,3 +8,6 @@ but it is very intuitive and easy to use.
 This week I completed the skills survey on Blackboard.  This assignment reminded me I wanted to learn move about maven
 and what it does on a deeper lever.
 
+I updated my foobarbaz code to handle a new divisiblity by 7 rule, and to run for 110 numbers.  I added logic to the first 
+if clause so that when a number like 105 came, which is divisible by 3,5, and 7, it would not print foo bar but rather 
+baz (per the rules).
